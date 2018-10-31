@@ -3,26 +3,30 @@ layout: cv
 title: Pablo Iranzo Gómez's CV
 ---
 # Pablo Iranzo Gómez
-Physicist, Mathematician, Cambridge professor.
+Open Source enthusiast
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+[Pablo.Iranzo@gmail.com](mailto:Pablo.Iranzo@gmail.com) | [Personal website](https://iranzo.github.io)
 </div>
 
 
 ## Currently
 
-Senior Software Engineer in the Systems Solution Engineering team at Red Hat
+Senior Software Engineer, Solutions Engineering at Red Hat
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Product portfolio integration, Federation 2 (Kubernetes/OpenShift)
 
+## Labour experience
+`Sep 2018 - Today`
+__Senior Software Engineer, Solutions Engineering at Red Hat__
 
-### Research interests
+`Apr 2018 - Aug 2018`
+__Principal Software Maintenance Engineer (SEG) - OpenStack__
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`Sep 2016 - Mar 2018`
+__Senior Software Maintenance Engineer (SEG) - OpenStack__
 
 
 ## Education
