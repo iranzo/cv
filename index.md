@@ -6,7 +6,7 @@ title: Pablo Iranzo Gómez's CV
 Open Source enthusiast
 
 <div id="webaddress">
-[Pablo.Iranzo@gmail.com](mailto:Pablo.Iranzo@gmail.com) | [Personal website](https://iranzo.github.io)
+<a href="mailto:Pablo.Iranzo@gmail.com">Pablo.Iranzo@gmail.com</a> | <a href="https://iranzo.github.io">Personal website</a>
 </div>
 
 
@@ -28,6 +28,17 @@ __Principal Software Maintenance Engineer (SEG) - OpenStack__
 `Sep 2016 - Mar 2018`
 __Senior Software Maintenance Engineer (SEG) - OpenStack__
 
+`Oct 2013 - Aug 2016`
+__Senior Cloud Technical Account Manager__
+asdfasdf
+
+`Dec 2008 - Sept 2013`
+__Senior Global  Professional Services Consultant__
+asdfasdf
+
+`Oct 2006 - Nov 2008`
+__Global Professional Services Consultant__
+dasdfadsf
 
 ## Education
 
