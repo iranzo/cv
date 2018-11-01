@@ -29,6 +29,9 @@ __Senior Software Engineer, Solutions Engineering__
 `Apr 2018 - Aug 2018`
 __Principal Software Maintenance Engineer (SEG) - OpenStack__
 
+OpenStack	As a Software Maintenance Engineer in SEG (Support Engineering Group) we act as interfaces between Frontline, TAM services and Engineering, helping with the issues at our customers and their environments.  SEG is sitting in Global Support Services and is part of the bigger team focused on keeping things running in the best way at each deployment. Focusing also on team needs, automation, knowledge transfer, etc
+
+
 `Sep 2016 - Mar 2018`
 __Senior Software Maintenance Engineer (SEG) - OpenStack__
 
