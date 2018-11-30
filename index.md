@@ -16,7 +16,7 @@ Senior Software Engineer, Solutions Engineering at Red Hat
 
 ### Specialized in
 
-Product portfolio integration, Federation 2 (Kubernetes/OpenShift)
+Product portfolio integration, Federation 2 (Kubernetes/OpenShift) and Quay
 
 ## Work experience
 
