@@ -7,7 +7,7 @@ Open Source enthusiast, python aprentice
 
 <div id="webaddress">
 <a href="mailto:Pablo.Iranzo@gmail.com">Pablo.Iranzo@gmail.com</a> - <a href="https://iranzo.github.io"><i class="fas fa-home"></i>iranzo.github.io</a> - <br/>
-<a href="https://github.com/iranzo"><i class="fab fa-github"></i>iranzo</a> - <a href="https://twitter.com/iranzop"><i class="fab fa-twitter"></i>@iranzop</a>
+<a href="https://github.com/iranzo"><i class="fab fa-github"></i>iranzo</a> - <a href="https://twitter.com/iranzop"><i class="fab fa-twitter"></i>@iranzop</a>  - <a href="https://www.linkedin.com/in/iranzo/"><i class="fab fa-linkedin"></i>iranzo</a>
 </div>
 
 ## Currently
