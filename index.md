@@ -2,7 +2,9 @@
 layout: cv
 title: Pablo Iranzo Gómez's CV
 ---
+
 # Pablo Iranzo Gómez
+
 Open Source enthusiast, python aprentice
 
 <div id="webaddress">
@@ -16,15 +18,20 @@ Senior Software Engineer, Solutions Engineering at Red Hat
 
 ### Specialized in
 
-Product portfolio integration, Federation 2 (Kubernetes/OpenShift) and Quay
+- Cloud: Focusing on helping partners to deploy and run  OpenStack for NFV environments
+- Virtualization environment integration and automation
+- Experience in systems automation for  life-cycle management  (deployment, upgrading, configuration) on large deployments.
+- Standarization by using scripts of operations among different hardware configurations to provide an uniform view and set of tools for checking system status and easing problem resolution.
+- Preparation and automation of new hardware models into Core Builds for a broad range of hardware
 
 ## Work experience
 
 ### Red Hat
+
 `Sep 2018 - Today`
 __Senior Software Engineer, Solutions Engineering__
 
-Product portfolio integration, Federation 2 (Kubernetes/OpenShift)
+Product portfolio integration, Federation 2 (Kubernetes/OpenShift) and Quay container registry
 
 `Apr 2018 - Aug 2018`
 __Principal Software Maintenance Engineer (SEG) - OpenStack__
@@ -32,7 +39,6 @@ __Principal Software Maintenance Engineer (SEG) - OpenStack__
 As a Software Maintenance Engineer in SEG (Support Engineering Group) we act as interfaces between Frontline, TAM services and Engineering, helping with the issues at our customers and their environments.
 
 SEG is sitting in Global Support Services and is part of the bigger team focused on keeping things running in the best way at each deployment. Focusing also on team needs, automation, knowledge transfer, etc
-
 
 `Sep 2016 - Mar 2018`
 __Senior Software Maintenance Engineer (SEG) - OpenStack__
@@ -54,11 +60,12 @@ TAM sits in Global Support Services and is part of the bigger team focused on ke
 __Senior Global  Professional Services Consultant__
 
 Among other tasks:
-  - Guideline the future and evolution of masterkit's/Core Builds
-  - System administration / Monitoring / Inventory
-  - System life-cycle management and automation (puppet)
-  - Virtualization platform integration and automation via python api
-  - Clustering - LiveCD creation for several tasks (bare-metal backup recovery, custom rescue system usage)
+
+- Guideline the future and evolution of masterkit's/Core Builds
+- System administration / Monitoring / Inventory
+- System life-cycle management and automation (puppet)
+- Virtualization platform integration and automation via python api
+- Clustering - LiveCD creation for several tasks (bare-metal backup recovery, custom rescue system usage)
 
 `Oct 2006 - Nov 2008`
 __Global Professional Services Consultant__
@@ -81,10 +88,12 @@ Provide IT counseling, system administration and consulting services for (among 
 - LiveCD creation for bare-metal deployment and advanded system restore for disaster recovery
 
 Datacenter:
-- Implementation of procedures for future masterkit creation and deployment for new machines as well as: 
+
+- Implementation of procedures for future masterkit creation and deployment for new machines as well as:
 - Puppet configuration of services / users/ groups / permissions, etc - RPM packaging of needed files for integration into HP's Service Guard and clustered environment
 
 ### Ser&Tec
+
 `Apr 2004 - Oct 2006`
 __System administrator__
 
@@ -97,12 +106,12 @@ Technical support and server configuration for deploying Autodesk Products (Auto
 Application deployment on mixed environments (Linux / Microsoft): Mapguide Enterprise
 Application administration on Linux servers: Web (Apache) E-mail Fileserver (NFS / Samba) Backup Firewall DHCP & DNS
 
-
 ### Various
+
 `Jul 1997 - Oct 2006`
 __Several companies__
 
-Teacher at ocupational/continuous formation courses	Teaching in several computer-related areas at several companies with customers like:  ONCE: National's blind association Alstom: Train-related industry Oscar Mayer: Meat-related products company
+Teacher at ocupational/continuous formation courses Teaching in several computer-related areas at several companies with customers like:  ONCE: National's blind association Alstom: Train-related industry Oscar Mayer: Meat-related products company
 
 `June 2006 - Jul 2006`
 __Instituto de Consultoría y Auditoría__
@@ -133,8 +142,8 @@ __High School__ - IES Juan de Garay, Valencia
 `1983 - 1992`
 __General Basic Education__ - CP Tomás de Villarroya, Valencia
 
-Universitat de València	1993			Physics	H. Astronomical Burjassot Association founding member, LinUV: Linux User's from the University of Valencia,  Alumni spokesman assembly member
-IES Juan de Garay	1988	1992		High School	La Escalera Horizontal (Magazine)
+Universitat de València 1993 Physics H. Astronomical Burjassot Association founding member, LinUV: Linux User's from the University of Valencia,  Alumni spokesman assembly member
+IES Juan de Garay 1988 1992 High School La Escalera Horizontal (Magazine)
 
 ## Projects
 
