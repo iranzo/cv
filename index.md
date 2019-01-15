@@ -147,6 +147,14 @@ IES Juan de Garay 1988 1992 High School La Escalera Horizontal (Magazine)
 
 ## Projects
 
+`Jan 2019 - `
+__Blog-o-Matic__
+Develop and mantain automation process for automating creation of websites with pelican, Elegant and required plugins to provide a 'canned' approach to getting a new full-featured website with little setup process.
+
+`Dec 2018 - `
+__Elegant__
+Collaborate in [Pelican-Elegant](https://github.com/Pelican-Elegant) project for providing a full featured theme for pelican website creation.
+
 `Jun 2017 -`
 __Citellus__
 Develop and maintain Citellus framework and plugins.   Citellus is a framework to help with system configuration validation on either live system or any sort of snapshot of the filesystem.  Via execution of 'plugins' it reports status on each one execution against the system that gives you an idea on health status, actual problems or problems that will reveal themselves if no preventive action is taken. <https://citellus.org> and <https://github.com/citellusorg/>
