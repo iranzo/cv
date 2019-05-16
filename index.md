@@ -9,7 +9,7 @@ Open Source enthusiast, python aprentice
 
 <div id="webaddress">
 <a href="mailto:Pablo.Iranzo@gmail.com">Pablo.Iranzo@gmail.com</a> - <a href="https://iranzo.github.io"><i class="fas fa-home"></i>iranzo.github.io</a> - <br/>
-<a href="https://github.com/iranzo"><i class="fab fa-github"></i>iranzo</a> - <a href="https://twitter.com/iranzop"><i class="fab fa-twitter"></i>@iranzop</a>  - <a href="https://www.linkedin.com/in/iranzo/"><i class="fab fa-linkedin"></i>iranzo</a>
+<a href="https://github.com/iranzo"><i class="fab fa-github"></i>iranzo</a> - <a href="https://twitter.com/iranzop"><i class="fab fa-twitter"></i>@iranzop</a> - <a href="https://www.linkedin.com/in/iranzo/"><i class="fab fa-linkedin"></i>iranzo</a>
 </div>
 
 ## Currently
@@ -18,9 +18,9 @@ Senior Software Engineer, Solutions Engineering at Red Hat
 
 ### Specialized in
 
-- Cloud: Focusing on helping partners to deploy and run  OpenStack for NFV environments
+- Cloud: Focusing on helping partners to deploy and run OpenStack for NFV environments
 - Virtualization environment integration and automation
-- Experience in systems automation for  life-cycle management  (deployment, upgrading, configuration) on large deployments.
+- Experience in systems automation for life-cycle management (deployment, upgrading, configuration) on large deployments.
 - Standarization by using scripts of operations among different hardware configurations to provide an uniform view and set of tools for checking system status and easing problem resolution.
 - Preparation and automation of new hardware models into Core Builds for a broad range of hardware
 
@@ -32,6 +32,8 @@ Senior Software Engineer, Solutions Engineering at Red Hat
 __Senior Software Engineer, Solutions Engineering__
 
 Product portfolio integration, Federation 2 (Kubernetes/OpenShift) and Quay container registry
+
+CNV Kubevirt Community team
 
 `Apr 2018 - Aug 2018`
 __Principal Software Maintenance Engineer (SEG) - OpenStack__
@@ -57,7 +59,7 @@ As a Technical Account Manager, you're the first point of contact for technical 
 TAM sits in Global Support Services and is part of the bigger team focused on keeping things running in the best way at each deployment.
 
 `Dec 2008 - Sept 2013`
-__Senior Global  Professional Services Consultant__
+__Senior Global Professional Services Consultant__
 
 Among other tasks:
 
@@ -70,7 +72,7 @@ Among other tasks:
 `Oct 2006 - Nov 2008`
 __Global Professional Services Consultant__
 
-Masterkit adaptation to deploy systems, custom software as well as setting up a custom PXE deployment setup with each deployed server, as well as integration with RHN/Satellite and API access  Custom script creation to ease day-to-day issues of customer with both servers and POS
+Masterkit adaptation to deploy systems, custom software as well as setting up a custom PXE deployment setup with each deployed server, as well as integration with RHN/Satellite and API access Custom script creation to ease day-to-day issues of customer with both servers and POS
 
 ### Mercadona
 
@@ -111,7 +113,7 @@ Application administration on Linux servers: Web (Apache) E-mail Fileserver (NFS
 `Jul 1997 - Oct 2006`
 __Several companies__
 
-Teacher at ocupational/continuous formation courses Teaching in several computer-related areas at several companies with customers like:  ONCE: National's blind association Alstom: Train-related industry Oscar Mayer: Meat-related products company
+Teacher at ocupational/continuous formation courses Teaching in several computer-related areas at several companies with customers like: ONCE: National's blind association Alstom: Train-related industry Oscar Mayer: Meat-related products company
 
 `June 2006 - Jul 2006`
 __Instituto de Consultoría y Auditoría__
@@ -142,7 +144,7 @@ __High School__ - IES Juan de Garay, Valencia
 `1983 - 1992`
 __General Basic Education__ - CP Tomás de Villarroya, Valencia
 
-Universitat de València 1993 Physics H. Astronomical Burjassot Association founding member, LinUV: Linux User's from the University of Valencia,  Alumni spokesman assembly member
+Universitat de València 1993 Physics H. Astronomical Burjassot Association founding member, LinUV: Linux User's from the University of Valencia, Alumni spokesman assembly member
 IES Juan de Garay 1988 1992 High School La Escalera Horizontal (Magazine)
 
 ## Projects
@@ -157,7 +159,7 @@ Collaborate in [Pelican-Elegant](https://github.com/Pelican-Elegant) project for
 
 `Jun 2017 -`
 __Citellus__
-Develop and maintain Citellus framework and plugins.   Citellus is a framework to help with system configuration validation on either live system or any sort of snapshot of the filesystem.  Via execution of 'plugins' it reports status on each one execution against the system that gives you an idea on health status, actual problems or problems that will reveal themselves if no preventive action is taken. <https://citellus.org> and <https://github.com/citellusorg/>
+Develop and maintain Citellus framework and plugins.  Citellus is a framework to help with system configuration validation on either live system or any sort of snapshot of the filesystem. Via execution of 'plugins' it reports status on each one execution against the system that gives you an idea on health status, actual problems or problems that will reveal themselves if no preventive action is taken. <https://citellus.org> and <https://github.com/citellusorg/>
 
 `Jun 2015 -`
 __Stampython__
