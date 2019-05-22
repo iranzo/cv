@@ -33,7 +33,7 @@ __Senior Software Engineer, Solutions Engineering__
 
 Product portfolio integration, Federation 2 (Kubernetes/OpenShift) and Quay container registry
 
-CNV Kubevirt Community team
+KNI Kubevirt Community team
 
 `Apr 2018 - Aug 2018`
 __Principal Software Maintenance Engineer (SEG) - OpenStack__
