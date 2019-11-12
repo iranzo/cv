@@ -26,7 +26,7 @@ Senior Software Engineer, Solutions Engineering at Red Hat
 
 ## Work experience
 
-### Red Hat
+### <span class="fab fa-redhat">Red Hat</span>
 
 `Sep 2018 - Today`
 __Senior Software Engineer, Solutions Engineering__
