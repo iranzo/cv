@@ -26,7 +26,7 @@ Senior Software Engineer, Solutions Engineering at Red Hat
 
 ## Work experience
 
-### <span class="fab fa-redhat">Red Hat</span>
+### <span class="fab fa-redhat"> Red Hat</span>
 
 `Sep 2018 - Today`
 __Senior Software Engineer, Solutions Engineering__
@@ -84,7 +84,7 @@ __Red Hat Dedicated Enterprise Engineer__
 
 Provide IT counseling, system administration and consulting services for (among others):
 
-- adaptation of Masterkits/Core Build for deployment of shops (1300+ shops which sum up 15.000+ systems deployed across the whole country)
+- customization of Masterkits/Core Build for deployment of shops (1300+ shops which sum up 15.000+ systems deployed across the whole country)
 - on-site support to help desk
 - link between customer and Red Hat support/sales
 - deployment of new solutions based on Red Hat Enterprise Linux and integration of third-party tools to fit customer needs
@@ -128,7 +128,7 @@ __Organic Chemistry Department at Universitat de Valéncia__
 Creation of two parallel processing clusters to analyze chemical structure stability (OpenMosix and NQS)
 
 `1998 - 2002`
-__SUSE Linux AG__
+<span class="fab fa-suse"> __SUSE Linux AG__</span>
 Translator from English to Spanish since SuSE Linux 5.3 until 8.0 for YaST, SaX, and some marketing and user manuals (apps and configuration)
 
 ## Education
@@ -166,7 +166,7 @@ Develop and maintain Citellus framework and plugins.  Citellus is a framework to
 
 `Jun 2015 -`
 __Stampython__
-Telegram API Karma bot with extra features. Allows accounting for karma, quotes, some stats, etc. Project available at <https://t.me/redken_bot> and source at <https://github.com/iranzo/stampython>
+Telegram API Karma bot with extra features. Allows accounting for karma, quotes, some stats, etc. Project available at <https://t.me/redken_bot>.
 
 `Jun 2010 -`
 __Other__
