@@ -33,7 +33,10 @@ __Senior Software Engineer, Solutions Engineering__
 
 Product portfolio integration, Federation 2 (Kubernetes/OpenShift) and Quay container registry
 
-KNI Community team (KubeVirt, Metal³)
+KNI Community team (KubeVirt, Metal³):
+- <https://metal3.io/blog/2019/09/11/Baremetal-operator.html>
+- <https://kubevirt.io/2019/jenkins-jobs-for-kubevirt-lab-validation.html>
+- <https://kubevirt.io/2019/prow-jobs-for-kubevirt.html>
 
 `Apr 2018 - Aug 2018`
 __Principal Software Maintenance Engineer (SEG) - OpenStack__
