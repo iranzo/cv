@@ -40,6 +40,9 @@ KNI Community team (KubeVirt, Metal³):-
 - <https://kubevirt.io/2019/jenkins-jobs-for-kubevirt-lab-validation.html>
 - <https://kubevirt.io/2019/prow-jobs-for-kubevirt.html>
 
+Deployment Integration team since April 2020
+- <https://github.com/openshift-kni/baremetal-deploy/>
+
 `Apr 2018 - Aug 2018`
 __Principal Software Maintenance Engineer (SEG) - OpenStack__
 
