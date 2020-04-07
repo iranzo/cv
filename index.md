@@ -21,7 +21,7 @@ Senior Software Engineer, Solutions Engineering at Red Hat
 - Cloud: Focusing on helping partners to deploy and run OpenStack for NFV environments
 - Virtualization environment integration and automation
 - Experience in systems automation for life-cycle management (deployment, upgrading, configuration) on large deployments.
-- Standarization by using scripts of operations among different hardware configurations to provide an uniform view and set of tools for checking system status and easing problem resolution.
+- Standardization by using scripts of operations among different hardware configurations to provide an uniform view and set of tools for checking system status and easing problem resolution.
 - Preparation and automation of new hardware models into Core Builds for a broad range of hardware
 
 ## Work experience
@@ -97,7 +97,7 @@ Provide IT counseling, system administration and consulting services for (among 
 - deployment of new solutions based on Red Hat Enterprise Linux and integration of third-party tools to fit customer needs
 - tailoring of OS to retail environment (P.O.S. and server infrastructure) for inventory, management, administration, RPM packaging, configuration management (puppet), system provisioning (cobbler), cutting down on installation sizes and times.
 - Automation of process to reduce human intervention and failures in setting up new systems for shops (firmware versions, configuration, etc) - OS Upgrades and evolutions deployed in a unattended and automatic way
-- LiveCD creation for bare-metal deployment and advanded system restore for disaster recovery
+- Live CD creation for bare-metal deployment and advanced system restore for disaster recovery
 
 Datacenter:
 
@@ -116,21 +116,21 @@ Design, dimension and deployment of servers and hardware platforms for integrati
 Technical support and server configuration for deploying Autodesk Products (Autocad, Architectural Desktop, Map, Mapguide, Civil 3D, etc).
 
 Application deployment on mixed environments (Linux / Microsoft): Mapguide Enterprise
-Application administration on Linux servers: Web (Apache) E-mail Fileserver (NFS / Samba) Backup Firewall DHCP & DNS
+Application administration on Linux servers: Web (Apache) E-mail File server (NFS / Samba) Backup Firewall DHCP & DNS
 
 ### Various
 
 `Jul 1997 - Oct 2006`
 **Several companies**
 
-Teacher at ocupational/continuous formation courses Teaching in several computer-related areas at several companies with customers like: ONCE: National's blind association Alstom: Train-related industry Oscar Mayer: Meat-related products company
+Teacher at occupational/continuous formation courses Teaching in several computer-related areas at several companies with customers like: ONCE: National's blind association Alstom: Train-related industry Oscar Mayer: Meat-related products company
 
 `June 2006 - Jul 2006`
 **Instituto de Consultoría y Auditoría**
 Training for impaired people in computer-related skills such as word processing, spreadsheets, internet, etc
 
 `Jan 2003 - Oct 2003`
-**Organic Chemistry Department at Universitat de Valéncia**
+**Organic Chemistry Department at Universitat de València**
 
 Creation of two parallel processing clusters to analyze chemical structure stability (OpenMosix and NQS)
 
@@ -161,7 +161,7 @@ IES Juan de Garay 1988 1992 High School La Escalera Horizontal (Magazine)
 
 `Jan 2019 -`
 **Blog-o-Matic**
-Develop and mantain automation process for automating creation of websites with pelican, Elegant and required plugins to provide a 'canned' approach to getting a new full-featured website with little setup process.
+Develop and maintain automation process for automating creation of websites with pelican, Elegant and required plugins to provide a 'canned' approach to getting a new full-featured website with little setup process.
 
 `Dec 2018 -`
 **Elegant**
