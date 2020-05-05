@@ -39,7 +39,7 @@ Product portfolio integration, Federation 2 (Kubernetes/OpenShift) and Quay cont
 KNI Community team (KubeVirt, Metal³):-
 
 Some articles written while in that team:
-- https://deploy-preview-552--kubevirtio.netlify.app/2020/live-migration
+- <https://deploy-preview-552--kubevirtio.netlify.app/2020/live-migration>
 - <https://kubevirt.io/2019/jenkins-ci-server-upgrade-and-jobs-for-kubevirt.html>
 - <https://kubevirt.io/2019/prow-jobs-for-kubevirt.html>
 - <https://metal3.io/blog/2019/09/11/Baremetal-operator.html>
