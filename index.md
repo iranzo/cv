@@ -31,10 +31,15 @@ Senior Software Engineer, Solutions Engineering at Red Hat
 `Sep 2018 - Today`
 **Senior Software Engineer, Solutions Engineering**
 
-Product portfolio integration, Federation 2 (Kubernetes/OpenShift) and Quay container registry
+Product portfolio integration, Federation 2 (Kubernetes/OpenShift) and Quay container registry:
+
+- <https://iranzo.github.io/blog/2019/01/08/quay-for-federation/>
+- <https://iranzo.github.io/blog/2019/01/08/postgres-repl-ssl-replication/>
 
 KNI Community team (KubeVirt, Metal³):-
 
+Some articles written while in that team:
+- https://deploy-preview-552--kubevirtio.netlify.app/2020/live-migration
 - <https://kubevirt.io/2019/jenkins-ci-server-upgrade-and-jobs-for-kubevirt.html>
 - <https://kubevirt.io/2019/prow-jobs-for-kubevirt.html>
 - <https://metal3.io/blog/2019/09/11/Baremetal-operator.html>
