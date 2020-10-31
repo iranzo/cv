@@ -39,6 +39,7 @@ Product portfolio integration, Federation 2 (Kubernetes/OpenShift) and Quay cont
 KNI Community team (KubeVirt, Metal³):-
 
 Some articles written while in that team:
+
 - <https://deploy-preview-552--kubevirtio.netlify.app/2020/live-migration>
 - <https://kubevirt.io/2019/jenkins-ci-server-upgrade-and-jobs-for-kubevirt.html>
 - <https://kubevirt.io/2019/prow-jobs-for-kubevirt.html>
@@ -130,7 +131,7 @@ Application administration on Linux servers: Web (Apache) E-mail File server (NF
 
 Teacher at occupational/continuous formation courses Teaching in several computer-related areas at several companies with customers like: ONCE: National's blind association Alstom: Train-related industry Oscar Mayer: Meat-related products company
 
-`June 2006 - Jul 2006`
+`Jun 2006 - Jul 2006`
 **Instituto de Consultoría y Auditoría**
 Training for impaired people in computer-related skills such as word processing, spreadsheets, internet, etc
 
