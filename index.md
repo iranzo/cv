@@ -73,7 +73,7 @@ As a Technical Account Manager, you're the first point of contact for technical 
 
 TAM sits in Global Support Services and is part of the bigger team focused on keeping things running in the best way at each deployment.
 
-`Dec 2008 - Sept 2013`
+`Dec 2008 - Sep 2013`
 **Senior Global Professional Services Consultant**
 
 Among other tasks:
