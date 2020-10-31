@@ -160,9 +160,6 @@ Key tools and techniques (initiation, planning, execution and closing phases) PM
 `1983 - 1992`
 **General Basic Education** - CP Tomás de Villarroya, Valencia
 
-Universitat de València 1993 Physics H. Astronomical Burjassot Association founding member, LinUV: Linux User's from the University of Valencia, Alumni spokesman assembly member
-IES Juan de Garay 1988 1992 High School La Escalera Horizontal (Magazine)
-
 ## Projects
 
 `Jan 2019 -`
@@ -184,3 +181,16 @@ Telegram API Karma bot with extra features. Allows accounting for karma, quotes,
 `Jun 2010 -`
 **Other**
 Check other projects I've contributed via <https://sourcerer.io/iranzo>
+
+`1993-`
+**H.Astronomical Burjassot Association**
+Founding member of the University astronomical association
+
+`1993-`
+**LinUV**
+Member of the FOSS group and participant in several yearly events on FOSS
+knowledge sharing
+
+`1988-1992`
+**La escalera vertical**
+Participant in the High School magazine
