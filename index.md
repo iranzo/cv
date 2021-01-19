@@ -31,14 +31,16 @@ Senior Software Engineer, Solutions Engineering at Red Hat
 `Sep 2018 - Today`
 **Senior Software Engineer, Solutions Engineering**
 
-Product portfolio integration, Federation 2 (Kubernetes/OpenShift) and Quay container registry:
 
-- <https://iranzo.io/blog/2019/01/08/quay-for-federation/>
-- <https://iranzo.io/blog/2019/01/08/postgres-repl-ssl-replication/>
+Deployment Integration team since April 2020:
 
-KNI Community team (KubeVirt, Metal³):-
+- Working on OpenShift Baremetal IPI Installations, Validations and documentation (<https://github.com/openshift-kni/baremetal-deploy/>)
+- Telco 5G use case like EDGE
 
-Some articles written while in the team:
+
+KNI Community team (KubeVirt, Metal³):
+
+Some articles that were written while in the team:
 
 - <https://kubevirt.io/2020/Live-migration.html>
 - <https://kubevirt.io/2019/jenkins-ci-server-upgrade-and-jobs-for-kubevirt.html>
@@ -47,9 +49,11 @@ Some articles written while in the team:
 - <https://kubevirt.io/2019/jenkins-jobs-for-kubevirt-lab-validation.html>
 - <https://kubevirt.io/2019/prow-jobs-for-kubevirt.html>
 
-Deployment Integration team since April 2020
 
-- <https://github.com/openshift-kni/baremetal-deploy/>
+Product portfolio integration, Federation 2 (Kubernetes/OpenShift) and Quay container registry:
+
+- <https://iranzo.io/blog/2019/01/08/quay-for-federation/>
+- <https://iranzo.io/blog/2019/01/08/postgres-repl-ssl-replication/>lication/>
 
 `Apr 2018 - Aug 2018`
 **Principal Software Maintenance Engineer (SEG) - OpenStack**
