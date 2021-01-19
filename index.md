@@ -196,5 +196,5 @@ Member of the FOSS group and participant in several yearly events on FOSS
 knowledge sharing
 
 `1988-1992`
-**La escalera vertical**
+**La escalera horizontal**
 Participant in the High School magazine
