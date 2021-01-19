@@ -8,7 +8,7 @@ title: Pablo Iranzo Gómez's CV
 Open Source enthusiast, python aprentice
 
 <div id="webaddress">
-<a href="mailto:Pablo.Iranzo@gmail.com">Pablo.Iranzo@gmail.com</a> - <a href="https://iranzo.github.io"><i class="fas fa-home"></i>iranzo.github.io</a> - <br/>
+<a href="mailto:Pablo.Iranzo@gmail.com">Pablo.Iranzo@gmail.com</a> - <a href="https://iranzo.io"><i class="fas fa-home"></i>iranzo.io</a> - <br/>
 <a href="https://github.com/iranzo"><i class="fab fa-github"></i>iranzo</a> - <a href="https://twitter.com/iranzop"><i class="fab fa-twitter"></i>@iranzop</a> - <a href="https://www.linkedin.com/in/iranzo/"><i class="fab fa-linkedin"></i>iranzo</a>
 </div>
 
@@ -33,8 +33,8 @@ Senior Software Engineer, Solutions Engineering at Red Hat
 
 Product portfolio integration, Federation 2 (Kubernetes/OpenShift) and Quay container registry:
 
-- <https://iranzo.github.io/blog/2019/01/08/quay-for-federation/>
-- <https://iranzo.github.io/blog/2019/01/08/postgres-repl-ssl-replication/>
+- <https://iranzo.io/blog/2019/01/08/quay-for-federation/>
+- <https://iranzo.io/blog/2019/01/08/postgres-repl-ssl-replication/>
 
 KNI Community team (KubeVirt, Metal³):-
 
