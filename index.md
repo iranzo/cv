@@ -18,6 +18,7 @@ Senior Software Engineer, Solutions Engineering at Red Hat
 
 ### Specialized in
 
+- Integration of OpenShift Installation on Baremetal with Installer-Provisioned-Infrastructure (IPI)
 - Cloud: Focusing on helping partners to deploy and run OpenStack for NFV environments
 - Virtualization environment integration and automation
 - Experience in systems automation for life-cycle management (deployment, upgrading, configuration) on large deployments.
@@ -35,7 +36,7 @@ Senior Software Engineer, Solutions Engineering at Red Hat
 Deployment Integration team since April 2020:
 
 - Working on OpenShift Baremetal IPI Installations, Validations and documentation (<https://github.com/openshift-kni/baremetal-deploy/>)
-- Telco 5G use case like EDGE
+- Telco 5G use cases like EDGE
 
 
 KNI Community team (KubeVirt, Metal³):
