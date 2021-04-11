@@ -32,12 +32,10 @@ Senior Software Engineer, Solutions Engineering at Red Hat
 `Sep 2018 - Today`
 **Senior Software Engineer, Solutions Engineering**
 
-
 Deployment Integration team since April 2020:
 
 - Working on OpenShift Baremetal IPI Installations, Validations and documentation (<https://github.com/openshift-kni/baremetal-deploy/>)
 - Telco 5G use cases like EDGE
-
 
 KNI Community team (KubeVirt, Metal³):
 
@@ -49,7 +47,6 @@ Some articles that were written while in the team:
 - <https://metal3.io/blog/2019/09/11/Baremetal-operator.html>
 - <https://kubevirt.io/2019/jenkins-jobs-for-kubevirt-lab-validation.html>
 - <https://kubevirt.io/2019/prow-jobs-for-kubevirt.html>
-
 
 Product portfolio integration, Federation 2 (Kubernetes/OpenShift) and Quay container registry:
 
