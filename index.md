@@ -32,6 +32,11 @@ Senior Software Engineer, Solutions Engineering at Red Hat
 `Sep 2018 - Today`
 **Senior Software Engineer, Solutions Engineering**
 
+Vertical Markets Integration team since March 2021:
+
+- Telco 5G partner guidance on Baremetal IPI Installations
+- IPI Baremetal documentation
+
 Deployment Integration team since April 2020:
 
 - Working on OpenShift Baremetal IPI Installations, Validations and documentation (<https://github.com/openshift-kni/baremetal-deploy/>)
