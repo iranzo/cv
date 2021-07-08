@@ -182,7 +182,7 @@ Collaborate in [Pelican-Elegant](https://github.com/Pelican-Elegant) project for
 Develop and maintain Citellus framework and plugins. Citellus is a framework to help with system configuration validation on either live system or any sort of snapshot of the filesystem. Via execution of 'plugins' it reports status on each one execution against the system that gives you an idea on health status, actual problems or problems that will reveal themselves if no preventive action is taken. <https://citellus.org> and <https://github.com/citellusorg/>
 
 `Jun 2015 -`
-**Stampython**
+**@redken_bot**
 Telegram API Karma bot with extra features. Allows accounting for karma, quotes, some stats, etc. Project available at <https://t.me/redken_bot>.
 
 `Jun 2010 -`
