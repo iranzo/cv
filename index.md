@@ -1,7 +1,11 @@
 ---
 layout: cv
 title: Pablo Iranzo Gómez's CV
+<<<<<<< HEAD
 modified: "2021-10-11T14:58:33.698+02:00"
+=======
+modified: "2021-10-11T14:59:54.474+02:00"
+>>>>>>> 898d324 (Update title)
 ---
 
 # Pablo Iranzo Gómez
@@ -33,7 +37,11 @@ Senior Software Engineer, TelCo 5G OpenShift Integration
 `Jun 2021 - Today`
 **Senior Software Engineer, TelCo 5G OpenShift Integration**
 
+<<<<<<< HEAD
 Management Integration
+=======
+Management Integration:
+>>>>>>> 898d324 (Update title)
 
 - OpenShift Integration with Advanced Cluster Management for Telco 5G Use cases
 
