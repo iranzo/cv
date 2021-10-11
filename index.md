@@ -37,11 +37,7 @@ Senior Software Engineer, TelCo 5G OpenShift Integration
 `Jun 2021 - Today`
 **Senior Software Engineer, TelCo 5G OpenShift Integration**
 
-<<<<<<< HEAD
-Management Integration
-=======
 Management Integration:
->>>>>>> 898d324 (Update title)
 
 - OpenShift Integration with Advanced Cluster Management for Telco 5G Use cases
 
