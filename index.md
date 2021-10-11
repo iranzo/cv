@@ -1,11 +1,7 @@
 ---
 layout: cv
 title: Pablo Iranzo Gómez's CV
-<<<<<<< HEAD
 modified: "2021-10-11T14:58:33.698+02:00"
-=======
-modified: "2021-10-11T14:59:54.474+02:00"
->>>>>>> 898d324 (Update title)
 ---
 
 # Pablo Iranzo Gómez
