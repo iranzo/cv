@@ -1,6 +1,7 @@
 ---
 layout: cv
 title: Pablo Iranzo Gómez's CV
+modified: "2021-10-11T14:58:33.698+02:00"
 ---
 
 # Pablo Iranzo Gómez
@@ -14,7 +15,7 @@ Open Source enthusiast, python aprentice
 
 ## Currently
 
-Senior Software Engineer, Solutions Engineering at Red Hat
+Senior Software Engineer, TelCo 5G OpenShift Integration
 
 ### Specialized in
 
@@ -29,7 +30,14 @@ Senior Software Engineer, Solutions Engineering at Red Hat
 
 ### <span class="fab fa-redhat"> Red Hat</span>
 
-`Sep 2018 - Today`
+`Jun 2021 - Today`
+**Senior Software Engineer, TelCo 5G OpenShift Integration**
+
+Management Integration
+
+- OpenShift Integration with Advanced Cluster Management for Telco 5G Use cases
+
+`Sep 2018 - Jun 2021`
 **Senior Software Engineer, Solutions Engineering**
 
 Vertical Markets Integration team since March 2021:
