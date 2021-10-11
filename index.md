@@ -142,7 +142,7 @@ Advanced administration in multi-platform environments, mainly under Linux (SLES
 
 Design, dimension and deployment of servers and hardware platforms for integration of CAD/CAM, GIS and mobility: Diputación de Valencia Valencia's City Hall Local police of Valencia Valencia Port Bilbao Port Entidad para el Control de la Calidad en la Construcción.
 
-Technical support and server configuration for deploying Autodesk Products (Autocad, Architectural Desktop, Map, Mapguide, Civil 3D, etc).
+Technical support and server configuration for deploying Autodesk Products (AutoCAD, Architectural Desktop, Map, Mapguide, Civil 3D, etc).
 
 Application deployment on mixed environments (Linux / Microsoft): Mapguide Enterprise
 Application administration on Linux servers: Web (Apache) E-mail File server (NFS / Samba) Backup Firewall DHCP & DNS
