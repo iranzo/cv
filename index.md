@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: Pablo Iranzo Gómez's CV
-modified: "2021-10-11T14:58:33.698+02:00"
+modified: "2021-10-20T10:48:06.968+02:00"
 ---
 
 # Pablo Iranzo Gómez
@@ -10,7 +10,7 @@ Open Source enthusiast, python aprentice
 
 <div id="webaddress">
 <a href="mailto:Pablo.Iranzo@gmail.com">Pablo.Iranzo@gmail.com</a> - <a href="https://iranzo.io"><i class="fas fa-home"></i>iranzo.io</a> - <br/>
-<a href="https://github.com/iranzo"><i class="fab fa-github"></i>iranzo</a> - <a href="https://twitter.com/iranzop"><i class="fab fa-twitter"></i>@iranzop</a> - <a href="https://www.linkedin.com/in/iranzo/"><i class="fab fa-linkedin"></i>iranzo</a> - <a href="https://rhtapps.redhat.com/verify?certId=110-215-852"><i class="fab fa-redhat"></i>RH Certification</a>
+<a href="https://github.com/iranzo"><i class="fab fa-github"></i>iranzo</a> - <a href="https://twitter.com/iranzop"><i class="fab fa-twitter"></i>@iranzop</a> - <a href="https://www.linkedin.com/in/iranzo/"><i class="fab fa-linkedin"></i>iranzo</a> - <a href="https://rhtapps.redhat.com/verify?certId=110-215-852"><i class="fab fa-redhat"></i>RH Certification</a> - <a href="https://t.me/iranzo"><i class="fa fa-telegram"></i> iranzo</a>
 </div>
 
 ## Currently
