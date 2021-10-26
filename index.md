@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: Pablo Iranzo Gómez's CV
-modified: "2021-10-20T10:50:16.395+02:00"
+modified: "2021-10-26T08:51:36.165+02:00"
 ---
 
 # Pablo Iranzo Gómez
@@ -37,6 +37,10 @@ Senior Software Engineer, TelCo 5G OpenShift Integration
 Management Integration:
 
 - OpenShift Integration with Advanced Cluster Management for Telco 5G Use cases
+
+Some articles written while in the team:
+
+- <https://cloud.redhat.com/blog/telco-5g-zero-touch-provisioning-ztp>
 
 `Sep 2018 - Jun 2021`
 **Senior Software Engineer, Solutions Engineering**
