@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: Pablo Iranzo Gómez's CV
-modified: "2021-10-26T08:51:36.165+02:00"
+modified: "2021-10-26T22:12:09.854+02:00"
 ---
 
 # Pablo Iranzo Gómez
@@ -191,8 +191,8 @@ Develop and maintain automation process for automating creation of websites with
 Collaborate in [Pelican-Elegant](https://github.com/Pelican-Elegant) project for providing a full featured theme for pelican website creation.
 
 `Jun 2017 -`
-**Citellus**
-Develop and maintain Citellus framework and plugins. Citellus is a framework to help with system configuration validation on either live system or any sort of snapshot of the filesystem. Via execution of 'plugins' it reports status on each one execution against the system that gives you an idea on health status, actual problems or problems that will reveal themselves if no preventive action is taken. <https://citellus.org> and <https://github.com/citellusorg/>
+**Risu**
+Develop and maintain RISU framework and plugins. RISU is a framework to help with system configuration validation on either live system or any sort of snapshot of the filesystem. Via execution of 'plugins' it reports status on each one execution against the system that gives you an idea on health status, actual problems or problems that will reveal themselves if no preventive action is taken. <https://risuorg.github.io> and <https://github.com/risuorg/>
 
 `Jun 2015 -`
 **@redken_bot**
