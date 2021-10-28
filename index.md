@@ -69,7 +69,7 @@ Some articles that were written while in the team:
 Product portfolio integration, Federation 2 (Kubernetes/OpenShift) and Quay container registry:
 
 - <https://iranzo.io/blog/2019/01/08/quay-for-federation/>
-- <https://iranzo.io/blog/2019/01/08/postgres-repl-ssl-replication/>lication/>
+- <https://iranzo.io/blog/2019/01/08/postgres-repl-ssl-replication/>
 
 `Apr 2018 - Aug 2018`
 **Principal Software Maintenance Engineer (SEG) - OpenStack**
