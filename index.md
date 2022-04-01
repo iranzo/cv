@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: Pablo Iranzo Gómez's CV
-lastmod: 2022-04-01T00:03:13.674Z
+lastmod: 2022-04-01T00:11:13.824Z
 ---
 
 # Pablo Iranzo Gómez
@@ -16,7 +16,7 @@ Open Source enthusiast, python aprentice
 
 ## Currently
 
-Principal Software Engineer, TelCo 5G OpenShift Integration
+Principal Software Engineer, TelCo 5G OpenShift Management Integration
 
 ### Specialized in
 
@@ -32,14 +32,14 @@ Principal Software Engineer, TelCo 5G OpenShift Integration
 ### <span class="fab fa-redhat"> Red Hat</span>
 
 `Apr 2022 - Today`
-**Principal Software Engineer, TelCo 5G OpenShift Integration**
+**Principal Software Engineer, TelCo 5G OpenShift Management Integration**
 
 Management Integration:
 
 - OpenShift Integration with Advanced Cluster Management for Telco 5G Use cases via the ZTP4F automation
 
 `Jun 2021 - Mar 2022`
-**Senior Software Engineer, TelCo 5G OpenShift Integration**
+**Senior Software Engineer, TelCo 5G OpenShift Management Integration**
 
 Management Integration:
 
