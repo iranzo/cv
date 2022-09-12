@@ -2,7 +2,7 @@
 layout: cv
 title: Pablo Iranzo Gómez's CV
 lastmod: 2022-04-01T00:11:13.824Z
-modified: 2022-09-12T13:15:36.399Z
+modified: 2022-09-12T13:17:09.127Z
 ---
 
 # Pablo Iranzo Gómez
@@ -190,8 +190,8 @@ Key tools and techniques (initiation, planning, execution and closing phases) PM
 
 ## Publications
 
-`Nove 11 2021 - `
-** [PACKT] Red Hat Enterprise Linux 8 Administration **
+`Nov 11 2021 -`
+**[PACKT] Red Hat Enterprise Linux 8 Administration**
 Book on [Red Hat Enterprise Linux 8 Administration](https://s.admins.guru/buyonamazon) to cover the knowledge required to pass the RHCSA Certification Exam
 
 ## Projects
