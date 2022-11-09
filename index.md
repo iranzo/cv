@@ -24,7 +24,7 @@ Principal Software Engineer, TelCo 5G OpenShift Management Integration
 - Integration of OpenShift Installation on Baremetal with Installer-Provisioned-Infrastructure (IPI)
 - Cloud: Focusing on helping partners to deploy and run OpenStack for NFV environments
 - Virtualization environment integration and automation
-- Experience in systems automation for life-cycle management (deployment, upgrading, configuration) on large deployments.
+- Experience in systems automation for life-cycle management (deployment, upgrading, configuration) on large scale deployments.
 - Standardization by using scripts of operations among different hardware configurations to provide an uniform view and set of tools for checking system status and easing problem resolution.
 - Preparation and automation of new hardware models into Core Builds for a broad range of hardware
 
@@ -37,7 +37,7 @@ Principal Software Engineer, TelCo 5G OpenShift Management Integration
 
 Management Integration:
 
-- OpenShift Integration with Advanced Cluster Management for Telco 5G Use cases via the ZTP4F automation
+- OpenShift Integration with Advanced Cluster Management for Telco 5G Use cases via the ZTPFW automation (Zero Touch Provisioning - Factory Workflow)
 
 `Jun 2021 - Mar 2022`
 **Senior Software Engineer, TelCo 5G OpenShift Management Integration**
@@ -191,7 +191,7 @@ Key tools and techniques (initiation, planning, execution and closing phases) PM
 ## Publications
 
 `Nov 11 2021 -`
-**[PACKT] Red Hat Enterprise Linux 8 Administration** - 
+**[PACKT] Red Hat Enterprise Linux 8 Administration** -
 Book on [Red Hat Enterprise Linux 8 Administration](https://s.admins.guru/buyonamazon) to cover the knowledge required to pass the RHCSA Certification Exam
 
 ## Projects
