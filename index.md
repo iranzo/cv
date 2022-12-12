@@ -190,9 +190,13 @@ Key tools and techniques (initiation, planning, execution and closing phases) PM
 
 ## Publications
 
+`Nov 18 2022 -`
+**[PACKT] Red Hat Enterprise Linux 9 Administration: A comprehensive Linux system administration guide for RHCSA certification exam candidates** -
+Book on [Red Hat Enterprise Linux 9 Administration: A comprehensive Linux system administration guide for RHCSA certification exam candidates](https://s.admins.guru/buy-on-amazon-rhel9) to cover the knowledge required to pass the RHCSA Certification Exam
+
 `Nov 11 2021 -`
-**[PACKT] Red Hat Enterprise Linux 8 Administration** -
-Book on [Red Hat Enterprise Linux 8 Administration](https://s.admins.guru/buyonamazon) to cover the knowledge required to pass the RHCSA Certification Exam
+**[PACKT] Red Hat Enterprise Linux 8 Administration: Master Linux administration skills and prepare for the RHCSA certification exam** -
+Book on [Red Hat Enterprise Linux 8 Administration: Master Linux administration skills and prepare for the RHCSA certification exam](https://s.admins.guru/buyonamazon) to cover the knowledge required to pass the RHCSA Certification Exam
 
 ## Projects
 
