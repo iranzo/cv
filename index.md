@@ -38,6 +38,7 @@ Principal Software Engineer, TelCo 5G OpenShift Management Integration
 Management Integration:
 
 - OpenShift Integration with Advanced Cluster Management for Telco 5G Use cases via the ZTPFW automation (Zero Touch Provisioning - Factory Workflow)
+- Collaborating with the Partner Accelerator Team that works with Kernel Module Management development
 
 `Jun 2021 - Mar 2022`
 **Senior Software Engineer, TelCo 5G OpenShift Management Integration**
