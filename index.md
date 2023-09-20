@@ -174,6 +174,13 @@ Creation of two parallel processing clusters to analyze chemical structure stabi
 <span class="fab fa-suse"> **SUSE Linux AG**</span>
 Translator from English to Spanish since SuSE Linux 5.3 until 8.0 for YaST, SaX, and some marketing and user manuals (apps and configuration)
 
+## Community
+
+`May 2023 -`
+**AVAST: Asociación Valenciana de Apoyo a las Altas Capacidades**
+
+Collaborate with AVAST, providing technical advice on different topics of interest for the diffusion of High Capacities and easing the management of the association for the good of their associates.
+
 ## Education
 
 `2012`
@@ -217,10 +224,6 @@ Develop and maintain RISU framework and plugins. RISU is a framework to help wit
 `Jun 2015 -`
 **@redken_bot** -
 Telegram API Karma bot with extra features. Allows accounting for karma, quotes, some stats, etc. Project available at <https://t.me/redken_bot>.
-
-`Jun 2010 -`
-**Other** -
-Check other projects I've contributed via <https://sourcerer.io/iranzo>
 
 `1993-`
 **H.Astronomical Burjassot Association** -
