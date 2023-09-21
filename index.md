@@ -179,10 +179,10 @@ Translator from English to Spanish since SuSE Linux 5.3 until 8.0 for YaST, SaX,
 `Sept 2023 -`
 **Scholar Council**
 
-As a member of the Association of Mothers and Fathers (AMPA) be one of the representatives from the association at the School Council, made by the Director, Secretary, and other teachers and parents to express the problems and issues detects, and provide feedback on proposals from the school as a way to improve the quality and situation of the students.
+As a member of the Association of Mothers and Fathers (AMPA) act as representative at the School Council, formed by the Director, Secretary, and other teachers and parents to express the problems and issues detects, and provide feedback on proposals from the school as a way to improve the quality and situation of the students.
 
 `May 2023 -`
-**AVAST: Asociación Valenciana de Apoyo a las Altas Capacidades**
+**AVAST: Asociación Valenciana de Apoyo a las Altas Capacidades (High Capacities Association of Valencia)**
 
 Collaborate with AVAST, providing technical advice on different topics of interest for the diffusion of High Capacities and easing the management of the association for the good of their associates.
 
