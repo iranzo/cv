@@ -40,6 +40,7 @@ Management Integration:
 - OpenShift Integration with Advanced Cluster Management for Telco 5G Use cases via the ZTPFW automation (Zero Touch Provisioning - Factory Workflow)
 - Collaborating with the Partner Accelerator Team that develops the [Kernel Module Management](https://github.com/kubernetes-sigs/kernel-module-management).
   - <https://cloud.redhat.com/blog/scale-testing-kernel-module-management>
+  - <https://developers.redhat.com/articles/2024/04/05/enable-gpu-acceleration-kernel-module-management-operator>
 
 `Jun 2021 - Mar 2022`
 **Senior Software Engineer, TelCo 5G OpenShift Management Integration**
