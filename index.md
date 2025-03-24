@@ -45,7 +45,7 @@ Management Integration:
 
 Partner Accelerators and Industrial Edge:
 
-- Industrial Edge Team collabotion on TSN networks, OpenShift on ARM, RHEL Minimization and Virtual Router Protection (VRP) for Electrification efforts
+- Industrial Edge Team collabotion on TSN networks, OpenShift on ARM, RHEL Minimization and Virtual Protection Relays (VPR) for Electrification efforts
 
 `Jun 2021 - Mar 2022`
 **Senior Software Engineer, TelCo 5G OpenShift Management Integration**
