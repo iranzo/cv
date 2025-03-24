@@ -43,6 +43,10 @@ Management Integration:
   - <https://developers.redhat.com/articles/2024/04/05/enable-gpu-acceleration-kernel-module-management-operator>
   - <https://tv.redhat.com/detail/6352250333112/enable-gpu-acceleration-with-the-kernel-module-management-operator>
 
+Partner Accelerators and Industrial Edge:
+
+- Industrial Edge Team collabotion on TSN networks, OpenShift on ARM, RHEL Minimization and Virtual Router Protection (VRP) for Electrification efforts
+
 `Jun 2021 - Mar 2022`
 **Senior Software Engineer, TelCo 5G OpenShift Management Integration**
 
