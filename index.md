@@ -182,18 +182,23 @@ Translator from English to Spanish since SuSE Linux 5.3 until 8.0 for YaST, SaX,
 
 ## Community
 
-`Sept 2023 -`
+`Sept 2023 - July 2024`
 **Scholar Council**
 
 As a member of the Association of Mothers and Fathers (AMPA) act as representative at the School Council, formed by the Director, Secretary, and other teachers and parents to express the problems and issues detects, and provide feedback on proposals from the school as a way to improve the quality and situation of the students.
 
+`24 Mar 2024 -`
+**AVAST: Asociación Valenciana de Apoyo a las Altas Capacidades (High Capacities Association of Valencia)**
+
+Member of the director board of the association, providing advice on different topics of interest for the diffusion of High Capacities and easing the management of the association for the good of their associates.
+
 `May 2023 -`
 **AVAST: Asociación Valenciana de Apoyo a las Altas Capacidades (High Capacities Association of Valencia)**
 
-Collaborate with AVAST, providing technical advice on different topics of interest for the diffusion of High Capacities and easing the management of the association for the good of their associates.
+Collaborate with AVAST, providing technical advice on different topics of interest for the diffusion of High Capacities and easing the management of the association for the good of their associates. Help automation of different administration tasks for easing the access to the association by families in need of support and guidance. Making it easier for parents to enroll kids in the enrichment activities and providing a better experience for the kids.
 
-`Sept 2019 -`
-**AMPA: Association of Mothers and Fathers at School**
+`Sept 2019 - July 2024`
+**AMPA: Association of Parents at School**
 
 Collaborate with the Association of Mothers and Fathers at School helping with several tasks that improve the student and parents life at school from both the technical side (management of the communication channel), and collaboration in socialization events.
 
