@@ -17,7 +17,7 @@ Open Source enthusiast, python aprentice
 
 ## Currently
 
-Principal Software Engineer, TelCo 5G OpenShift Management Integration
+Principal Software Engineer, Edge Group - Partner Accelerators
 
 ### Specialized in
 
@@ -32,7 +32,20 @@ Principal Software Engineer, TelCo 5G OpenShift Management Integration
 
 ### <span class="fab fa-redhat"> Red Hat</span>
 
-`Apr 2022 - Today`
+`Apr 2025 - `
+**Principal Software Engineer, Edge Group - Partner Accelerators**
+
+- Continuing the work performed during my previous engagement in the Partner Accelerators team.
+- Collaborating with the Partner Accelerator Team that develops the [Kernel Module Management](https://github.com/kubernetes-sigs/kernel-module-management).
+  - <https://cloud.redhat.com/blog/scale-testing-kernel-module-management>
+  - <https://developers.redhat.com/articles/2024/04/05/enable-gpu-acceleration-kernel-module-management-operator>
+  - <https://tv.redhat.com/detail/6352250333112/enable-gpu-acceleration-with-the-kernel-module-management-operator>
+
+Partner Accelerators and Industrial Edge:
+
+- Industrial Edge Team collabotion on TSN networks, OpenShift on ARM, RHEL Minimization and Virtual Protection Relays (VPR) for Electrification efforts
+
+`Apr 2022 - Mar 2025`
 **Principal Software Engineer, TelCo 5G OpenShift Management Integration**
 
 Management Integration:
