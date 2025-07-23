@@ -40,6 +40,7 @@ Principal Software Engineer, Edge Group - Partner Accelerators
   - <https://cloud.redhat.com/blog/scale-testing-kernel-module-management>
   - <https://developers.redhat.com/articles/2024/04/05/enable-gpu-acceleration-kernel-module-management-operator>
   - <https://tv.redhat.com/detail/6352250333112/enable-gpu-acceleration-with-the-kernel-module-management-operator>
+  - <https://developers.redhat.com/articles/2025/07/23/optimize-rhel-edge-and-iot-deployments>
 
 Partner Accelerators and Industrial Edge:
 
